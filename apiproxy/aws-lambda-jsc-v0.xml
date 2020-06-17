@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="aws-lambda-jsc-v0">
+    <Basepaths>/v0/lambda</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1572894998323</CreatedAt>
+    <CreatedBy>defaultUser</CreatedBy>
+    <Description></Description>
+    <DisplayName>aws-lambda-jsc-v0</DisplayName>
+    <LastModifiedAt>1572896732123</LastModifiedAt>
+    <LastModifiedBy>defaultUser</LastModifiedBy>
+    <ManifestVersion>SHA-512:2099abdfc401f25da038ba7554c01f450336aefeb3ecd0f6234e3d490ebb4d7e6d925071ab7a8c4c636647bb1a357d373341099e645acdd22a573416a9ac70a3</ManifestVersion>
+    <Policies>
+        <Policy>aws-lambda-jsc</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://aws-lambda-jsc.js</Resource>
+        <Resource>jsc://aws-sdk-2.562.0-lambda.js</Resource>
+        <Resource>jsc://aws-sdk-2.562.0.min-lambda.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

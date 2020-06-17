@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Javascript async="false" continueOnError="false" enabled="true" timeLimit="200" name="aws-lambda-jsc">
+    <DisplayName>aws-lambda-jsc</DisplayName>
+    <Properties/>
+    <ResourceURL>jsc://aws-lambda-jsc.js</ResourceURL>
+    <IncludeURL>jsc://aws-sdk-2.562.0-lambda.js</IncludeURL>
+</Javascript>

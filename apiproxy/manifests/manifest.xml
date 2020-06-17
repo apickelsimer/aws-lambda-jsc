@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="aws-lambda-jsc" version="SHA-512:584ac6314dff4e0df0e10484235233d5042739ef3c8c1f5588be915c46a22d5fae9b45c746bbd2235bdfc0247e763649d4a6046a4419a4cdcc3428b1793d335f"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:00f6caca2a688fdff6b57bd31f8f17b897e8f1138873c82622cc91c67d41abbe1fc91216fce35f2a0f913ba25ef08615581e709be1b98f0e9f0a5a45e96da94e"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://aws-lambda-jsc.js" version="SHA-512:7d7290850a1b87ce66131953f7b05866c1b4b255fff653714b8e8b741ebc7fb1f787a61eef4acd62431c9013d3697d3ad41375970ba7bc271bbd2e9d50ecd5ed"/>
+        <VersionInfo resourceName="jsc://aws-sdk-2.562.0-lambda.js" version="SHA-512:8a50a443ce03400748b47f0c8fd630d6ce4b2d241dbfa8c1bd50f1f485036d097f9f80faa68a5f0d15a2b3f6633361864c15a50edee9c618f18dc37dd76ae359"/>
+        <VersionInfo resourceName="jsc://aws-sdk-2.562.0.min-lambda.js" version="SHA-512:4039d1a3a8c59875709f586b692b2088fceae2ff9982f80c9a609be6d3a94fa8ce5c646beb5c8659f28c455d744066e7882aa497bb189db067fa1d85fcbc2588"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
